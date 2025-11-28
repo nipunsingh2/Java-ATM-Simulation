@@ -1,34 +1,26 @@
-📌 ATM Machine Simulation (Java + Swing)
+📌 Project Overview
 
-This is a desktop-based ATM simulation built using Java Swing.
-It supports:
+This is a desktop-based ATM simulation built entirely using Java, OOP principles, and Swing GUI.
+It implements core ATM functionalities such as:
 
-PIN Authentication
+🔐 PIN Authentication
 
-Deposit
+💰 Deposit Money
 
-Withdraw
+💸 Withdraw Money
 
-Balance Check
+📊 Mini Statement with Transaction Table
 
-Mini Statement (Table View)
+🏦 Balance Check
+
+🎨 User-friendly GUI
 
 🧠 Technologies Used
 
 Java
 
-Swing
+Swing (JFrame, JPanel, JTable, JOptionPane, etc.)
 
-OOP Concepts
+OOP Concepts (Encapsulation, Inheritance)
 
-▶️ How to Run
-
-Download the repository
-
-Open the Java file in any IDE (VS Code, IntelliJ, Eclipse)
-
-Run ATMGUI.java
-
-👤 Author
-
-Nipun
+Collections (ArrayList)
