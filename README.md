@@ -1,2 +1,5 @@
-# Java-ATM-Simulation
-A fully-functional ATM Machine Simulation built using Java, OOP concepts, and Swing GUI. Includes PIN authentication, balance check, deposit/withdraw functionality, and a mini-statement feature.
+# ATM Machine Simulation (Java + Swing)
+
+A desktop ATM simulation built in Java using Swing and OOP concepts. Supports PIN login, deposit, withdraw, balance check, and mini-statement.
+
+## Project structure
